@@ -11,5 +11,6 @@
 
 
 
-[![VoidMaker's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=SelimKaya&hide=roff&theme=algolia&show_icons=true)](https://github.com/SelimKaya)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=SelimKaya&theme=algolia&show_icons=true)](https://github.com/SelimKaya)
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=magnuscarlsencoding&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=magnuscarlsencoding&langs_count=5&theme=tokyonight)]()
