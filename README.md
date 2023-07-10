@@ -1,5 +1,5 @@
 <h3 align="center">I'm Software Engineer / Front-End Developer</h3>
-<h3 align='center' target = '_blank'> My Portfolio :  https://magnuscarlsencoding.github.io/ </h3>
+<h3 align='center'> My Portfolio :  <a href='https://magnuscarlsencoding.github.io/' target = '_blank'> https://magnuscarlsencoding.github.io/ </a> </h3>
 
 <p align="left">
 </p>
